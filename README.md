@@ -4,6 +4,10 @@ I am a passionate Computer Engineering student at [ISITCOM](https://isitcom.rnu.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Prevalion&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<a href="https://github.com/Prevalion">
+    <img src="https://komarev.com/ghpvc/?username=Prevalion&style=for-the-badge">
+</a>
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my License's in Computer Science at ISITCOM.
@@ -30,7 +34,7 @@ I am a passionate Computer Engineering student at [ISITCOM](https://isitcom.rnu.
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-
+![](https://hit.yhype.me/github/profile?user_id=88796214)
 
 <!--
 
