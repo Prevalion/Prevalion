@@ -2,7 +2,7 @@
 
 I am a passionate Computer Engineering student at [ISITCOM](https://isitcom.rnu.tn/), driven by a curiosity for technology. My journey involves delving into the world of computer engineering, exploring new ideas, and expanding my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Prevalion&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Prevalion's Stats](https://github-readme-stats.vercel.app/api?username=Prevalion&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <a href="https://github.com/Prevalion">
     <img src="https://komarev.com/ghpvc/?username=Prevalion&style=for-the-badge">
