@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,py,vscode&perline=3)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -34,8 +34,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/medayoubgh/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
