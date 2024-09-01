@@ -16,7 +16,7 @@ I am a passionate Computer Engineering student at [ISITCOM](https://isitcom.rnu.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,py,docker,pytorch,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,py,docker,pytorch,vscode&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
